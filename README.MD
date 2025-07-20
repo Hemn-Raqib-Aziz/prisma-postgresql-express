@@ -132,12 +132,4 @@ npx prisma studio
 
 ---
 
-## 🧃 Final Tips Before Deployment
-
-* ❌ Never commit `.env` or `node_modules`
-* ✔️ Add sensitive files to `.gitignore`
-* ⚠️ Always run `npx prisma generate` after modifying the schema
-
----
-
 Built with ❤️ by [Hemn Raqib Aziz](https://github.com/Hemn-Raqib-Aziz)
